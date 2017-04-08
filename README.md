@@ -16,7 +16,7 @@ Connection details:
 
 altestbox-af.westeurope.cloudapp.azure.com
 ALAdmin
-xytFgwJc6pWtt6T9GjP2V3nP
+****
 
 BaseVM up 21:29
 
